@@ -67,7 +67,7 @@
       {
         "name": "Virgil van Dijk",
         "photo": "https://cdn.sofifa.net/players/203/376/25_120.png",
-        "position": "player-CB",
+        "position": "player-CBL",
         "nationality": "Netherlands",
         "flag": "https://cdn.sofifa.net/flags/nl.png",
         "club": "Liverpool",
@@ -83,7 +83,7 @@
       {
         "name": "Antonio Rudiger",
         "photo": "https://cdn.sofifa.net/players/205/452/25_120.png",
-        "position": "player-CB",
+        "position": "player-CBR",
         "nationality": "Germany",
         "flag": "https://cdn.sofifa.net/flags/de.png",
         "club": "Real Madrid",
